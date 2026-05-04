@@ -4,8 +4,10 @@
   <name>Remnants of the Precursors</name>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0-only</project_license>
-  <developer_name>Ray Fowler</developer_name>
-  <summary>A polished modernization of the original Master of Orion Strategy game from 1993.</summary>
+  <developer id="com.remnantsoftheprecursors">
+    <name>Ray Fowler</name>
+  </developer>
+  <summary>A polished modernization of the original Master of Orion Strategy game from 1993</summary>
   <description>
     <p>Remnants of the Precursors is a modernization of the 1993 strategy game "Master of Orion".
       You will play as one of 10 unique races and lead them to galactic domination or, if you fail,
@@ -30,11 +32,9 @@
     </screenshot>
   </screenshots>
 
-  <url type="homepage">https://www.remnantsoftheprecursors.org/</url>
-  <url type="help">
-    https://raw.githubusercontent.com/rayfowler/rotp-public/master/src/rotp/lang/en/manual.pdf</url>
-  <url type="bugtracker">
-    https://www.reddit.com/r/rotp/comments/ms7r0t/psa_how_to_report_bugs_in_rotp/</url>
+  <url type="homepage">https://www.remnantsoftheprecursors.org</url>
+  <url type="help">https://raw.githubusercontent.com/rayfowler/rotp-public/master/src/rotp/lang/en/manual.pdf</url>
+  <url type="bugtracker">https://www.reddit.com/r/rotp/comments/ms7r0t/psa_how_to_report_bugs_in_rotp/</url>
   <url type="donation">https://www.patreon.com/rayfowler</url>
 
   <languages>
