@@ -4,7 +4,9 @@
   <name>Remnants of the Precursors</name>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0-only</project_license>
-  <developer_name>Ray Fowler</developer_name>
+  <developer id="com.remnantsoftheprecursors">
+    <name>Ray Fowler</name>
+  </developer>
   <summary>A polished modernization of the original Master of Orion Strategy game from 1993.</summary>
   <description>
     <p>Remnants of the Precursors is a modernization of the 1993 strategy game "Master of Orion".
