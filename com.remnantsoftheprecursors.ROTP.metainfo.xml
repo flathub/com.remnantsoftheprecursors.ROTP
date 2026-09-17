@@ -75,6 +75,11 @@
     <category>Game</category>
   </categories>
 
+  <keywords>
+    <keyword>4X</keyword>
+    <keyword>Space</keyword>
+  </keywords>
+
   <launchable type="desktop-id">com.remnantsoftheprecursors.ROTP.desktop</launchable>
 
 </component>
